@@ -1,0 +1,26 @@
+#as{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+            url("./berger.jpeg");
+    padding: 250px;
+    background-size: cover;
+    
+    text-align: center;
+    
+}
+#ad{
+    text-align: center;
+    color: white;
+    font-size:larger;
+    
+}
+#az{
+    color: orange;
+    padding: 10px;
+}
+#aq {
+  background-color: white;
+  color: black;
+  padding: 10px;
+  border-radius: 20px;
+  border: 2px solid orange;
+}
